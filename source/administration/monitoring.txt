@@ -230,7 +230,13 @@ on your own servers. Most are open source.
        <https://github.com/mzupan/nagios-plugin-mongodb>`_
 
      - A simple Nagios check script, written in Python.
+  
+  * - `Pandora FMS <http://pandorafms.com/>`_
 
+     - `pandorafms-plugin-mongodb
+       <http://blog.pandorafms.org/how-to-monitor-mongodb-or-how-to-keep-your-users-happy/>`_
+
+     - Pandora FMS plugin to monitor Mongo DB.
 Also consider `dex <https://github.com/mongolab/dex>`_, an index and
 query analyzing tool for MongoDB that compares MongoDB log files and
 indexes to make indexing recommendations.
